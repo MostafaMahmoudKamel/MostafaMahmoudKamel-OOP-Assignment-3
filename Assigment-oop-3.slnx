@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/Refactoring/">
+    <Project Path="Refactoring/part-01/RefactoringLab.Part01.csproj" />
+    <Project Path="Refactoring/part-02/RefactoringLab.Part02.csproj" />
+    <Project Path="Refactoring/part-03/RefactoringLab.Part03.csproj" />
+  </Folder>
+  <Project Path="Collections/Collections.csproj" />
+  <Project Path="Generics/Generics.csproj" />
+  <Project Path="LinkedIn/LinkedIn.csproj" Id="38d8558d-eacd-49e3-a6f9-e5e1bf247a19" />
+</Solution>
